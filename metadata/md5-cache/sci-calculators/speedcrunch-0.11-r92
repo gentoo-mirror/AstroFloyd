@@ -1,0 +1,11 @@
+DEFINED_PHASES=-
+DEPEND=media-libs/freeglut virtual/opengl app-arch/unzip
+DESCRIPTION=library for managing 3D-Studio Release 3 and 4 .3DS files
+EAPI=5
+HOMEPAGE=https://code.google.com/p/lib3ds/
+KEYWORDS=~amd64 ~ppc ~ppc64 ~x86
+LICENSE=LGPL-2.1
+RDEPEND=media-libs/freeglut virtual/opengl
+SLOT=0
+SRC_URI=https://lib3ds.googlecode.com/files/lib3ds-1.3.0.zip
+_md5_=17e719e6d551cf7cd484dc774d5432bf

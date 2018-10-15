@@ -1,0 +1,9 @@
+DEFINED_PHASES=install prepare
+DESCRIPTION=Pro Git: an open-source book on Git by Scott Chacon and Ben Straub (English HTML version)
+EAPI=5
+HOMEPAGE=https://progit.org/
+KEYWORDS=~*
+LICENSE=CC-BY-NC-SA-3.0
+SLOT=0
+SRC_URI=https://progit2.s3.amazonaws.com/en/2015-10-27-6c452/progit-en.904.zip
+_md5_=3c309e8ffd2feb0709f7a24bcc9cb9c6

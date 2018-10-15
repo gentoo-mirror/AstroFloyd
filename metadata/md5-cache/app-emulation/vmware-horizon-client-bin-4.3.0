@@ -1,0 +1,9 @@
+DEFINED_PHASES=install postinst prepare unpack
+DESCRIPTION=Binary version of VMware horizon client
+EAPI=5
+HOMEPAGE=https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_horizon_clients/4_0
+KEYWORDS=~amd64 ~x86
+LICENSE=vmware
+SLOT=0
+SRC_URI=https://download3.vmware.com/software/view/viewclients/CART16Q4/VMware-Horizon-Client-4.3.0-4710754.x64.bundle
+_md5_=01af3d75e89c3182f916792e3347f78d

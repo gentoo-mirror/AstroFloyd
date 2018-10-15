@@ -1,0 +1,10 @@
+DEFINED_PHASES=compile configure install
+DESCRIPTION=An open source software toolkit used for building grids.
+EAPI=4
+HOMEPAGE=http://www.globus.org/toolkit/
+IUSE=
+KEYWORDS=~amd64 ~x86
+LICENSE=Mixed
+SLOT=0
+SRC_URI=http://www.globus.org/ftppub/gt5/5.2/5.2.0/installers/src/gt5.2.0-all-source-installer.tar.gz
+_md5_=3492a385a22c5211651015ca78ad001d

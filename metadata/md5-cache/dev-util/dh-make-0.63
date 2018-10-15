@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DEPEND=dev-util/debhelper
+DESCRIPTION=Tool to generate a Debian-style source package from a regular source code archive
+EAPI=5
+HOMEPAGE=https://launchpad.net/dh-make
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-util/debhelper
+SLOT=0
+SRC_URI=https://launchpad.net/dh-make/main/0.63/+download/dh-make_0.63.tar.gz
+_md5_=01e23195ffa2268546da7d7dc65f3f6d
