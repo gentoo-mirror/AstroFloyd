@@ -2,3 +2,40 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+dev-libs/intel-common:compiler - Install the libraries needed for the icc and ifort compilers
+dev-perl/Astro-satpass:json - Uses dev-perl/JSON to pass JSON orbital data from Space Track to the Astro::Coord::ECI::TLE parse() method
+dev-qt/qt-meta:kde - Select media-libs/phonon as Phonon variant (needed for KDE)
+media-sound/amarok:embedded - Use libmysqld, MySQL embedded server library. Try disabling this if you encounter -PIC related in amarok, it will make amarok rely only on standalone MySQL server.
+media-sound/amarok:mp3tunes - Enable mp3tunes integration
+media-sound/amarok:mtp - Enable support for libMTP (Plays4Sure) devices access through libmtp
+media-sound/amarok:ofa - Use media-libs/libofa to compute MusicDNS acoustic fingerprints (used by MusicBrainz)
+media-sound/amarok:utils - Build the utils - old media-sound/amarok-utils
+net-mail/davmail-bin:server - Add a davmail user and an entry to /etc/init.d to use davmail as a service
+net-mail/mu:emacs - Install the mu4e mail client.
+net-misc/owncloud-client:dolphin - Install the kde-apps/dolphin extension
+net-misc/owncloud-client:nautilus - Install the gnome-base/nautilus extension
+net-misc/owncloud-client:sftp - Enable sftp transfer support via net-libs/libssh
+net-wireless/madwifi-ng:injection - Adds support for net-wireless/aircrack-ng aireplay-ng packet injection
+sci-astronomy/amuse:mesa - Compile the Mesa code in sci-astronomy/amuse
+sci-astronomy/amuse:mocassin - Compile the Mocassin code in sci-astronomy/amuse
+sci-astronomy/amuse:mpiamrvac - Compile the mpiamrvac code in sci-astronomy/amuse
+sci-astronomy/amuse:pynbody - Compile the pyNbody code in sci-astronomy/amuse
+sci-astronomy/skychart-bin:xplanet - Enable planet realistic view capability.
+sci-electronics/labjack-ljm-64bit:kipling - Install the Kipling program
+sci-geosciences/gpsman:utils - Install utilities for e.g. conversion
+sci-libs/fgsl:doc-html - Installs (~13Mb) of documentation as HTML
+sci-libs/fgsl:doc-pdf - Installs (~4.6Mb) of documentation as PDF
+sci-libs/lal:frame - Adds support for sci-libs/libframe
+sci-libs/lal:metaio - Adds support for sci-libs/metaio
+sci-libs/lal:shared-libs - Build shared libraries
+sci-libs/lalapps:frame - Adds support for sci-libs/lalframe
+sci-libs/lalapps:metaio - Adds support for sci-libs/lalmetaio
+sci-libs/plplot:dynamic - Build with dynamic drivers
+sci-libs/plplot:octave - Add bindings for sci-mathematics/octave
+sci-libs/plplot:pdl - Add bindings for dev-perl/PDL
+sci-libs/plplot:qhull - Add bindings for media-libs/qhull
+sci-libs/plplot:shapefile - Enable support for ESRI shapefiles
+sci-mathematics/giac:gc - Enable garbage collection support via dev-libs/boehm-gc
+sys-kernel/gentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
+x11-libs/gtk-fortran:plplot - Adds support for sci-libs/plplot for scientific plotting
+x11-libs/qwtpolar:designer - Build the plugin for dev-qt/designer/dev-qt/qt-creator
