@@ -46,7 +46,7 @@ sci-astronomy/libthesky 0.3.2 0.3.3: Fortran library to compute positions of cel
 sci-astronomy/rocheplot 0.1.0: Plot the key stages in the evolution of a binary star
 sci-astronomy/skychart-bin 3.6.2150: Free software to draw sky charts, also known as Cartes du Ciel
 sci-astronomy/soltrack 2.1 2.2: A simple, free, fast and accurate routine to compute the position of the Sun
-sci-calculators/speedcrunch 0.11-r92: library for managing 3D-Studio Release 3 and 4 .3DS files
+sci-calculators/speedcrunch 0.11-r92: Fast and usable calculator for power users
 sci-calculators/wcalc 2.5: A flexible command-line scientific calculator
 sci-electronics/labjack-ljm-64bit 20171221: LabJackM driver + C library and Kipling for LabJack T4, T7, and Digit (64-bit)
 sci-geosciences/gmapcatcher 0.8.0.4: An offline viewer for different map providers
@@ -74,8 +74,8 @@ sci-libs/plplot 5.13.0 5.14.0 5.15.0: Multi-language scientific plotting library
 sci-mathematics/giac 1.4.9.71-r1: A free C++ CAS (Computer Algebra System) library and its interfaces
 sci-misc/simso 0.8.5: Simulation of Multiprocessor Real-Time Scheduling with Overheads - core
 sci-misc/simsogui 0.8.1: Simulation of Multiprocessor Real-Time Scheduling with Overheads - gui
-sys-apps/man-pages-fortran 0.1.0-r1: Man pages for the Linux Kernel API
-sys-apps/man-pages-linux-kernel-api 4.5.2: A flexible command-line scientific calculator
+sys-apps/man-pages-fortran 0.1.0-r1: Man pages for the Fortran language
+sys-apps/man-pages-linux-kernel-api 4.5.2: Man pages for the Linux Kernel API
 sys-cluster/opencoarrays 1.9.3: Implementation of coarrays for gfortran
 sys-kernel/gentoo-sources 4.1.12 4.4.6 4.9.16 4.9.76-r1 4.12.12: Full sources including the Gentoo patchset for the 4.12 kernel tree
 sys-process/netatop 0.2: Resource-specific view of processes

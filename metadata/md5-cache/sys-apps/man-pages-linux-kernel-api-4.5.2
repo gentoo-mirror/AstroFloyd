@@ -1,12 +1,9 @@
-DEFINED_PHASES=configure
-DEPEND=dev-libs/gmp:* dev-libs/mpfr:* readline? ( sys-libs/readline:* )
-DESCRIPTION=A flexible command-line scientific calculator
+DEFINED_PHASES=compile install prepare
+DESCRIPTION=Man pages for the Linux Kernel API
 EAPI=5
-HOMEPAGE=http://w-calc.sourceforge.net/
-IUSE=readline
-KEYWORDS=~amd64 ~ppc ~ppc64 ~x86 ~amd64-linux ~x86-linux ~ppc-macos
+HOMEPAGE=https://www.kernel.org/doc
+KEYWORDS=~alpha ~amd64 ~arm ~hppa ~ia64 ~mips ~ppc ~ppc64 ~s390 ~sh ~sparc ~x86
 LICENSE=GPL-2
-RDEPEND=dev-libs/gmp:* dev-libs/mpfr:* readline? ( sys-libs/readline:* )
 SLOT=0
-SRC_URI=mirror://sourceforge/w-calc/wcalc-2.5.tar.bz2
+SRC_URI=https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.5.2.tar.xz
 _md5_=54f15356d06bd45db186be3deb748800
