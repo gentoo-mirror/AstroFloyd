@@ -81,4 +81,3 @@ sys-kernel/gentoo-sources 4.1.12 4.4.6 4.9.16 4.9.76-r1 4.12.12: Full sources in
 sys-process/netatop 0.2: Resource-specific view of processes
 x11-libs/gtk-fortran 2.9999-r1 3.9999-r1 3.9999-r2: Cross-platform Fortran binding to create GUIs for Fortran programs using GTK+
 x11-libs/qtscriptgenerator 0.2.0-r1: Tool for generating Qt bindings for Qt Script
-x11-libs/qwtpolar 1.1.1-r5: Library for displaying values on a polar coordinate system
