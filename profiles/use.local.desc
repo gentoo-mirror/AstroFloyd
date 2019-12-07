@@ -38,4 +38,3 @@ sci-libs/plplot:shapefile - Enable support for ESRI shapefiles
 sci-mathematics/giac:gc - Enable garbage collection support via dev-libs/boehm-gc
 sys-kernel/gentoo-sources:experimental - Apply experimental patches; for more information, see "https://wiki.gentoo.org/wiki/Project:Kernel/Experimental".
 x11-libs/gtk-fortran:plplot - Adds support for sci-libs/plplot for scientific plotting
-x11-libs/qwtpolar:designer - Build the plugin for dev-qt/designer/dev-qt/qt-creator
