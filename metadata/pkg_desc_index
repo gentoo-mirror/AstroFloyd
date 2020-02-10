@@ -25,7 +25,6 @@ dev-vcs/pro-git-html 904: Pro Git: an open-source book on Git by Scott Chacon an
 media-gfx/tex2im 1.8: Tex2im converts LaTeX formulae into high-resolution bitmap graphics.
 media-plugins/gimp-plugin-astronomy 0.9: Gimp plugins for astronomical image processing
 media-sound/amarok 2.8.90-r9001: Advanced audio player based on KDE framework
-net-im/whatsapp-purple 9999: Whatsapp plugin for libpurple (Pidgin)
 net-mail/davmail-bin 4.8.0: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/mu 1.2 1.3.1: Set of tools to deal with Maildirs, in particular, searching and indexing
 net-misc/globus-toolkit 5.2.0: An open source software toolkit used for building grids.
@@ -79,6 +78,5 @@ sys-apps/man-pages-linux-kernel-api 4.5.2: Man pages for the Linux Kernel API
 sys-cluster/opencoarrays 1.9.3: Implementation of coarrays for gfortran
 sys-kernel/gentoo-sources 4.1.12 4.4.6 4.9.16 4.9.76-r1 4.12.12: Full sources including the Gentoo patchset for the 4.12 kernel tree
 sys-process/netatop 0.2: Resource-specific view of processes
-x11-libs/gtk-fortran 2.9999-r1 3.9999-r1 3.9999-r2: Cross-platform Fortran binding to create GUIs for Fortran programs using GTK+
 x11-libs/qtscriptgenerator 0.2.0-r1: Tool for generating Qt bindings for Qt Script
 x11-libs/qwt 6.1.4: 2D plotting library for Qt5
