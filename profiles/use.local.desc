@@ -5,6 +5,12 @@
 dev-libs/intel-common:compiler - Install the libraries needed for the icc and ifort compilers
 dev-perl/Astro-satpass:json - Uses dev-perl/JSON to pass JSON orbital data from Space Track to the Astro::Coord::ECI::TLE parse() method
 dev-qt/qt-meta:kde - Select media-libs/phonon as Phonon variant (needed for KDE)
+gnome-extra/libgda:canvas - Enable support for x11-libs/goocanvas
+gnome-extra/libgda:http - Enable embedded net-libs/libsoup based server
+gnome-extra/libgda:json - Enable support for JSON format
+gnome-extra/libgda:mdb - Enable support for Microsoft Access database using app-office/mdbtools
+gnome-extra/libgda:reports - Install tools for generating graphical reports
+gnome-extra/libgda:sourceview - Enable support for x11-libs/gtksourceview
 media-sound/amarok:embedded - Use libmysqld, MySQL embedded server library. Try disabling this if you encounter -PIC related in amarok, it will make amarok rely only on standalone MySQL server.
 media-sound/amarok:mp3tunes - Enable mp3tunes integration
 media-sound/amarok:mtp - Enable support for libMTP (Plays4Sure) devices access through libmtp
