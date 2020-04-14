@@ -1,4 +1,4 @@
-app-backup/rdiff-backup 1.3.3-r1 1.3.3-r2: Local/remote mirroring+incremental backup
+app-backup/rdiff-backup 1.3.3-r1 1.3.3-r3: Local/remote mirroring+incremental backup
 app-emulation/vmware-horizon-client-bin 4.3.0: Binary version of VMware horizon client
 app-emulation/vmware-view-open-client 4.5.0.297975-r2: Open Source VMware View Client
 app-emulation/vmware-view-open-client-pcoip-bin 9999: Binary version of VMware open client using the PCoIP protocol
