@@ -16,6 +16,7 @@ dev-libs/nidaqmxbase 14.0.0 14.0.0-r1: National Instruments DAQ MX base drivers
 dev-libs/xml-fortran 1.00: Library and programs to access XML-files in Fortran
 dev-perl/Astro-satpass 0.067-r1: A Perl module to compute satellite passages for a given observing location
 dev-python/py_sg 0.11-r1: Python SCSI generic library
+dev-python/pylibacl 0.5.3-r1: POSIX ACLs (Access Control Lists) for Python
 dev-python/tweepy 1.7.1-r1: Python library for the Twitter/Identi.ca API, including Oauth and Xauth
 dev-qt/qt-meta 5.5.0: Cross-platform application development framework (metapackage)
 dev-tex/html2latex 1.1-r2: Perl script to convert HTML files into formatted LaTeX
