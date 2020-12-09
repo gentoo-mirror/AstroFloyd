@@ -51,7 +51,7 @@ sci-astronomy/skychart-bin 3.6.2150: Free software to draw sky charts, also know
 sci-astronomy/soltrack 2.1 2.2: A simple, free, fast and accurate routine to compute the position of the Sun
 sci-calculators/speedcrunch 0.11-r92: Fast and usable calculator for power users
 sci-calculators/wcalc 2.5: A flexible command-line scientific calculator
-sci-electronics/labjack-ljm-64bit 20171221 20171221-r1: LabJackM driver + C library and Kipling for LabJack T4, T7, and Digit (64-bit)
+sci-electronics/labjack-ljm-64bit 20171221 20171221-r1 20171221-r2: LabJackM driver + C library and Kipling for LabJack T4, T7, and Digit (64-bit)
 sci-geosciences/gmapcatcher 0.8.0.4: An offline viewer for different map providers
 sci-geosciences/gpsman 6.4.4.2: A graphical GPS data manager that supports several devices.
 sci-libs/fgsl 1.0.0 1.1.0 1.2.0: A Fortran interface to the GNU Scientific Library
