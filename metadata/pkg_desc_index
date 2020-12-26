@@ -83,5 +83,3 @@ sys-cluster/opencoarrays 1.9.3: Implementation of coarrays for gfortran
 sys-kernel/gentoo-sources 4.9.76-r1 5.4.38: Full sources including the Gentoo patchset for the 5.4 kernel tree
 sys-process/netatop 0.2: Resource-specific view of processes
 x11-libs/gtk-fortran 2.9999-r1 3.9999-r1 3.9999-r2: Cross-platform Fortran binding to create GUIs for Fortran programs using GTK+
-x11-libs/qtscriptgenerator 0.2.0-r1: Tool for generating Qt bindings for Qt Script
-x11-libs/qwt 6.1.4: 2D plotting library for Qt5
