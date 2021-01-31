@@ -1,4 +1,3 @@
-app-backup/rdiff-backup 1.3.3-r1 1.3.3-r3: Local/remote mirroring+incremental backup
 app-emulation/vmware-horizon-client-bin 4.3.0: Binary version of VMware horizon client
 app-emulation/vmware-view-open-client 4.5.0.297975-r2: Open Source VMware View Client
 app-emulation/vmware-view-open-client-pcoip-bin 9999: Binary version of VMware open client using the PCoIP protocol
@@ -15,15 +14,12 @@ dev-libs/nidaqmx-dummy 0.1: Dummy library to compile and link code using NI DAQm
 dev-libs/nidaqmxbase 14.0.0 14.0.0-r1: National Instruments DAQ MX base drivers
 dev-libs/xml-fortran 1.00: Library and programs to access XML-files in Fortran
 dev-perl/Astro-satpass 0.067-r1: A Perl module to compute satellite passages for a given observing location
-dev-python/py_sg 0.11-r1: Python SCSI generic library
 dev-python/pylibacl 0.5.3-r1: POSIX ACLs (Access Control Lists) for Python
-dev-python/tweepy 1.7.1-r1: Python library for the Twitter/Identi.ca API, including Oauth and Xauth
 dev-qt/qt-meta 5.5.0: Cross-platform application development framework (metapackage)
 dev-tex/html2latex 1.1-r2: Perl script to convert HTML files into formatted LaTeX
 dev-util/appinventor2 1.1: MIT App Inventor2 Setup package
 dev-util/dh-make 0.63: Tool to generate a Debian-style source package from a regular source code archive
 dev-vcs/pro-git-html 904: Pro Git: an open-source book on Git by Scott Chacon and Ben Straub (English HTML version)
-gnome-extra/libgda 5.2.8-r2: GNOME database access library
 media-gfx/tex2im 1.8: Tex2im converts LaTeX formulae into high-resolution bitmap graphics.
 media-plugins/gimp-plugin-astronomy 0.9: Gimp plugins for astronomical image processing
 media-sound/amarok 2.8.90-r9001: Advanced audio player based on KDE framework
@@ -32,7 +28,6 @@ net-im/whatsapp-purple 9999: Whatsapp plugin for libpurple (Pidgin)
 net-mail/davmail-bin 4.8.0: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/mu 1.2 1.3.1: Set of tools to deal with Maildirs, in particular, searching and indexing
 net-misc/globus-toolkit 5.2.0: An open source software toolkit used for building grids.
-net-misc/googlecl 0.9.15-r1: Command line tools for the Google Data APIs
 net-misc/ldg-cert-util 2.7: Util to manage certificates for the LIGO/Virgo LSC DataGrid (LDG).
 net-misc/ldg-version 1.0.3: Tool to report the version of the LIGO/Virgo LSC DataGrid (LDG) software installed.
 net-misc/onedrive 1.1.1: Free OneDrive client written in D
@@ -52,7 +47,6 @@ sci-astronomy/soltrack 2.1 2.2: A simple, free, fast and accurate routine to com
 sci-calculators/speedcrunch 0.11-r92: Fast and usable calculator for power users
 sci-calculators/wcalc 2.5: A flexible command-line scientific calculator
 sci-electronics/labjack-ljm-64bit 20171221 20171221-r1 20171221-r2: LabJackM driver + C library and Kipling for LabJack T4, T7, and Digit (64-bit)
-sci-geosciences/gmapcatcher 0.8.0.4: An offline viewer for different map providers
 sci-geosciences/gpsman 6.4.4.2: A graphical GPS data manager that supports several devices.
 sci-libs/fgsl 1.0.0 1.1.0 1.2.0: A Fortran interface to the GNU Scientific Library
 sci-libs/lal 6.5.0 6.6.1 6.9.1: Core routines for gravitational-wave data analysis with LIGO and Virgo
@@ -73,10 +67,7 @@ sci-libs/libsufr 0.7.4-r1 0.7.5-r1: LIBrary of Some Useful Fortran Routines
 sci-libs/metaio 7.2 8.2 8.2.1 8.3.0: A library for parsing LIGO/Virgo LIGO_LW Table files
 sci-libs/pg2plplot 5.12.0 5.13.0: Assist the transition from PGPlot to PLplot in Fortran programs
 sci-libs/pgplot 5.2.2-r99: FORTRAN/C device-independent scientific graphic library
-sci-libs/plplot 5.13.0 5.14.0 5.15.0: Multi-language scientific plotting library
 sci-mathematics/giac 1.4.9.71-r1: A free C++ CAS (Computer Algebra System) library and its interfaces
-sci-misc/simso 0.8.5: Simulation of Multiprocessor Real-Time Scheduling with Overheads - core
-sci-misc/simsogui 0.8.1: Simulation of Multiprocessor Real-Time Scheduling with Overheads - gui
 sys-apps/man-pages-fortran 0.1.0-r1: Man pages for the Fortran language
 sys-apps/man-pages-linux-kernel-api 4.5.2: Man pages for the Linux Kernel API
 sys-cluster/opencoarrays 1.9.3: Implementation of coarrays for gfortran
