@@ -33,7 +33,7 @@ net-misc/ldg-cert-util 2.7: Util to manage certificates for the LIGO/Virgo LSC D
 net-misc/ldg-version 1.0.3: Tool to report the version of the LIGO/Virgo LSC DataGrid (LDG) software installed.
 net-misc/onedrive 1.1.1: Free OneDrive client written in D
 net-misc/osg-ca-certs 1.25.0: Open Science Grid CA-Certificate distribution
-net-misc/owncloud-client 2.3.1: Synchronize files from ownCloud Server with your computer
+net-misc/owncloud-client 2.3.1-r1: Synchronize files from ownCloud Server with your computer
 net-wireless/madwifi-ng 0.9.4.4180.20120502: Next Generation driver for Atheros based IEEE 802.11a/b/g wireless LAN cards
 net-wireless/madwifi-ng-tools 0.9.4.4176.20111123: Next Generation tools for configuration of Atheros based IEEE 802.11a/b/g wireless LAN cards
 sci-astronomy/amuse 5.0 7.1: AMUSE is an Astrophysical Multipurpose Software Environment
@@ -48,7 +48,7 @@ sci-astronomy/soltrack 2.1 2.2: A simple, free, fast and accurate routine to com
 sci-calculators/speedcrunch 0.11-r92: Fast and usable calculator for power users
 sci-calculators/wcalc 2.5: A flexible command-line scientific calculator
 sci-electronics/labjack-ljm-64bit 20171221 20171221-r1 20171221-r2: LabJackM driver + C library and Kipling for LabJack T4, T7, and Digit (64-bit)
-sci-geosciences/gpsman 6.4.4.2: A graphical GPS data manager that supports several devices.
+sci-geosciences/gpsman 6.4.4.2-r1: A graphical GPS data manager that supports several devices.
 sci-libs/fgsl 1.0.0 1.1.0 1.2.0: A Fortran interface to the GNU Scientific Library
 sci-libs/lal 6.5.0 6.6.1 6.9.1: Core routines for gravitational-wave data analysis with LIGO and Virgo
 sci-libs/lalapps 6.6.1 6.6.2 6.11.2: Applications for gravitational-wave data analysis with LIGO/Virgo

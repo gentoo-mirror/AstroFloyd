@@ -1,11 +1,11 @@
 DEFINED_PHASES=info install prepare
 DESCRIPTION=A graphical GPS data manager that supports several devices.
-EAPI=5
+EAPI=7
 HOMEPAGE=http://gpsman.sourceforge.net/
 IUSE=doc utils
-KEYWORDS=~x86 ~amd64
+KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=>=dev-lang/tcl-8.4 >=dev-lang/tk-8.4
 SLOT=0
 SRC_URI=mirror://sourceforge/gpsman/gpsman-6.4.4.2.tgz
-_md5_=ad12db39e8030b9da0b77fbdd768bcf9
+_md5_=eb2251514aec6b723fe9f3d7f7536ccb
