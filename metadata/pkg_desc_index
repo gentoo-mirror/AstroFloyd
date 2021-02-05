@@ -3,7 +3,7 @@ app-emulation/vmware-view-open-client 4.5.0.297975-r2: Open Source VMware View C
 app-emulation/vmware-view-open-client-pcoip-bin 9999: Binary version of VMware open client using the PCoIP protocol
 app-misc/i810switch 0.6.5-r03: A utility for switching the LCD and external VGA displays on and off
 app-portage/gcruft 0.1-r1 0.1.1: helps finding orphaned files on a gentoo system
-app-portage/gentmaint 0.2.1 0.3.0 0.3.1: A collection of scripts to aid Gentoo maintenance
+app-portage/gentmaint 0.3.1 0.3.2: A collection of scripts to aid Gentoo maintenance
 app-text/epubcheck 1.0.5-r1: Verify .epub eBook format
 app-text/odf-converter-integrator-bin 0.2.3: Open MS Office 2007 files (docx, xlsx, pptx) in OpenOffice.org
 dev-lang/icc 13.1.5.192 14.0.3.174 15.0.6.233: Intel C/C++ Compiler
@@ -20,6 +20,7 @@ dev-tex/html2latex 1.1-r2: Perl script to convert HTML files into formatted LaTe
 dev-util/appinventor2 1.1: MIT App Inventor2 Setup package
 dev-util/dh-make 0.63: Tool to generate a Debian-style source package from a regular source code archive
 dev-vcs/pro-git-html 904: Pro Git: an open-source book on Git by Scott Chacon and Ben Straub (English HTML version)
+gnome-extra/libgda 5.2.8-r3: GNOME database access library
 media-gfx/tex2im 1.8: Tex2im converts LaTeX formulae into high-resolution bitmap graphics.
 media-plugins/gimp-plugin-astronomy 0.9: Gimp plugins for astronomical image processing
 media-sound/amarok 2.8.90-r9001: Advanced audio player based on KDE framework
