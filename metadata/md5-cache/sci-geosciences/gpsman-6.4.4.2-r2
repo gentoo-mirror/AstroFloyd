@@ -8,4 +8,4 @@ LICENSE=GPL-3
 RDEPEND=>=dev-lang/tcl-8.4 >=dev-lang/tk-8.4
 SLOT=0
 SRC_URI=mirror://sourceforge/gpsman/gpsman-6.4.4.2.tgz
-_md5_=eb2251514aec6b723fe9f3d7f7536ccb
+_md5_=343663b57458d8f51f74f25f06280ac3

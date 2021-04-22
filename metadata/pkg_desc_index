@@ -48,7 +48,7 @@ sci-astronomy/soltrack 2.1 2.2: A simple, free, fast and accurate routine to com
 sci-calculators/speedcrunch 0.11-r92: Fast and usable calculator for power users
 sci-calculators/wcalc 2.5: A flexible command-line scientific calculator
 sci-electronics/labjack-ljm-64bit 20171221 20171221-r1 20171221-r2: LabJackM driver + C library and Kipling for LabJack T4, T7, and Digit (64-bit)
-sci-geosciences/gpsman 6.4.4.2-r1: A graphical GPS data manager that supports several devices.
+sci-geosciences/gpsman 6.4.4.2-r2: A graphical GPS data manager that supports several devices.
 sci-libs/fgsl 1.0.0 1.1.0 1.2.0: A Fortran interface to the GNU Scientific Library
 sci-libs/lal 6.5.0 6.6.1 6.9.1: Core routines for gravitational-wave data analysis with LIGO and Virgo
 sci-libs/lalapps 6.6.1 6.6.2 6.11.2: Applications for gravitational-wave data analysis with LIGO/Virgo
