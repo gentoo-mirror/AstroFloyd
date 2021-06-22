@@ -1,12 +1,12 @@
 DEFINED_PHASES=compile configure postinst
-DEPEND==sci-libs/lal-6.6.1 sci-libs/libframe sci-libs/metaio =sci-libs/lalframe-1.0.4 =sci-libs/lalmetaio-1.0.3 =sci-libs/lalxml-1.1.2 mpi? ( virtual/mpi )
-DESCRIPTION=LALapps contains applications for gravitational-wave data analysis written in ANSI C99.
-EAPI=4
-HOMEPAGE=https://www.lsc-group.phys.uwm.edu/daswg/projects/lalsuite.html
+DEPEND==sci-libs/lal-6.6.1-r0 sci-libs/libframe sci-libs/metaio =sci-libs/lalframe-1.0.4-r0 =sci-libs/lalmetaio-1.0.3-r0 =sci-libs/lalxml-1.1.2-r0 mpi? ( virtual/mpi )
+DESCRIPTION=Applications for gravitational-wave data analysis with LIGO/Virgo
+EAPI=7
+HOMEPAGE=https://wiki.ligo.org/Computing/LALSuite
 IUSE=doc +mpi +metaio +frame -xml
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND==sci-libs/lal-6.6.1 sci-libs/libframe sci-libs/metaio =sci-libs/lalframe-1.0.4 =sci-libs/lalmetaio-1.0.3 =sci-libs/lalxml-1.1.2 mpi? ( virtual/mpi )
+RDEPEND==sci-libs/lal-6.6.1-r0 sci-libs/libframe sci-libs/metaio =sci-libs/lalframe-1.0.4-r0 =sci-libs/lalmetaio-1.0.3-r0 =sci-libs/lalxml-1.1.2-r0 mpi? ( virtual/mpi )
 SLOT=0
-SRC_URI=https://www.lsc-group.phys.uwm.edu/daswg/download/software/source/lalsuite/lalapps-6.6.2.tar.gz http://www.astro.ru.nl/~sluys/Stuff/lalapps_missing-6.6.2.tar.gz
-_md5_=0c6c036d3901ca7b0320942455eb9597
+SRC_URI=https://software.igwn.org/sources/source/lalsuite/lalapps-6.6.2.tar.gz http://www.astro.ru.nl/~sluys/Stuff/lalapps_missing-6.6.2.tar.gz
+_md5_=425f42a0868a51e046d8a52d31e18bfd

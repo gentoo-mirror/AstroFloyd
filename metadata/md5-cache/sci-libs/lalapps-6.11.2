@@ -1,12 +1,12 @@
 DEFINED_PHASES=compile configure postinst
 DEPEND=sci-libs/lal frame? ( sci-libs/libframe sci-libs/lalframe ) metaio? ( sci-libs/metaio sci-libs/lalmetaio ) xml? ( sci-libs/lalxml sci-libs/lalinference[xml] ) mpi? ( virtual/mpi )
 DESCRIPTION=Applications for gravitational-wave data analysis with LIGO/Virgo
-EAPI=4
-HOMEPAGE=https://www.lsc-group.phys.uwm.edu/daswg/projects/lalsuite.html
+EAPI=7
+HOMEPAGE=https://wiki.ligo.org/Computing/LALSuite
 IUSE=doc +mpi +metaio +frame -xml
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=sci-libs/lal frame? ( sci-libs/libframe sci-libs/lalframe ) metaio? ( sci-libs/metaio sci-libs/lalmetaio ) xml? ( sci-libs/lalxml sci-libs/lalinference[xml] ) mpi? ( virtual/mpi )
 SLOT=0
-SRC_URI=https://www.lsc-group.phys.uwm.edu/daswg/download/software/source/lalsuite/lalapps-6.11.2.tar.gz
-_md5_=562eff4bbc3915e15081ffdced859019
+SRC_URI=https://software.igwn.org/sources/source/lalsuite/lalapps-6.11.2.tar.gz
+_md5_=816d484eb20d7eb838fec3d8e67e2f76
