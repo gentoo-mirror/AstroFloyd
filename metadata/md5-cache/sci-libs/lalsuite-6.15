@@ -1,9 +1,9 @@
 DEFINED_PHASES=-
-DESCRIPTION=LAL - LIGO-Virgo data-analysis software suite - pull in a coherent set of sci-libs/lal* packages
-EAPI=4
-HOMEPAGE=https://www.lsc-group.phys.uwm.edu/daswg/projects/lalsuite.html
+DESCRIPTION=LAL - LIGO-Virgo data-analysis software suite
+EAPI=7
+HOMEPAGE=https://wiki.ligo.org/Computing/LALSuite
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND==sci-libs/lal-6.9.1 =sci-libs/lalframe-1.0.9 =sci-libs/lalmetaio-1.0.7 =sci-libs/lalsimulation-0.6.1 =sci-libs/lalburst-1.1.6 =sci-libs/lalinspiral-1.4.2 =sci-libs/lalpulsar-1.6.1 =sci-libs/lalinference-1.0.1 =sci-libs/lalstochastic-1.1.7 =sci-libs/lalapps-6.11.2
+RDEPEND==sci-libs/lal-6.9.1-r0 =sci-libs/lalframe-1.0.9-r0 =sci-libs/lalmetaio-1.0.7-r0 =sci-libs/lalsimulation-0.6.1-r0 =sci-libs/lalburst-1.1.6-r0 =sci-libs/lalinspiral-1.4.2-r0 =sci-libs/lalpulsar-1.6.1-r0 =sci-libs/lalinference-1.0.1-r0 =sci-libs/lalstochastic-1.1.7-r0 =sci-libs/lalapps-6.11.2-r0
 SLOT=0
-_md5_=d881dd4f3c5008f5a56fd360c7814d6f
+_md5_=1a8660ee6e37f0890747a45e680a0182
