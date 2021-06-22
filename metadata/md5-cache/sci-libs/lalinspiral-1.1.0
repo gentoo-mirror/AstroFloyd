@@ -1,11 +1,13 @@
-DEFINED_PHASES=postinst
+DEFINED_PHASES=postinst prepare
 DEPEND=sci-libs/libframe sci-libs/metaio sci-libs/lalframe sci-libs/lalmetaio sci-libs/lal sci-libs/lalsimulation sci-libs/fftw sci-libs/gsl sys-libs/zlib
 DESCRIPTION=Binary-inspiral package of the LIGO/Virgo libraries
 EAPI=7
 HOMEPAGE=https://wiki.ligo.org/Computing/LALSuite
+INHERIT=eutils
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=sci-libs/libframe sci-libs/metaio sci-libs/lalframe sci-libs/lalmetaio sci-libs/lal sci-libs/lalsimulation sci-libs/fftw sci-libs/gsl sys-libs/zlib
 SLOT=0
-SRC_URI=https://software.igwn.org/sources/source/lalsuite/lalinspiral-1.2.2.tar.gz
-_md5_=38174ded94ee0d56cd91981dc2e797e5
+SRC_URI=https://software.igwn.org/sources/source/lalsuite/lalinspiral-1.1.0.tar.gz
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	3c7381c56a184f0dd5ba3fb824808f30	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	9a53f21c753d823ba20a22f857c25cb4
+_md5_=971c2ff0c3558bdb424ec137e5613ee2
