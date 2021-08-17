@@ -4,7 +4,6 @@ app-emulation/vmware-view-open-client-pcoip-bin 9999: Binary version of VMware o
 app-portage/gentmaint 0.3.1 0.3.2: A collection of scripts to aid Gentoo maintenance
 app-text/epubcheck 1.0.5-r1: Verify .epub eBook format
 dev-libs/nidaqmx-dummy 0.1: Dummy library to compile and link code using NI DAQmx under Linux
-dev-libs/nidaqmxbase 14.0.0 14.0.0-r1: National Instruments DAQ MX base drivers
 dev-libs/xml-fortran 1.00: Library and programs to access XML-files in Fortran
 dev-perl/Astro-satpass 0.067-r1: A Perl module to compute satellite passages for a given observing location
 dev-python/pylibacl 0.5.3-r1: POSIX ACLs (Access Control Lists) for Python
