@@ -29,7 +29,7 @@ sci-astronomy/analysemcmc 0.7.2: Analyse output from the gravitational-wave data
 sci-astronomy/astrotools 0.0.1 0.0.3: Command-line tools for astronomy and astrophysics
 sci-astronomy/evtools 0.4.2: Manipulate and display output from the binary stellar-evolution code ev/TWIN
 sci-astronomy/gwtool 0.2.0: Simple command-line tools for working with gravitational waves
-sci-astronomy/libthesky 0.4.1-r1: Fortran library to compute positions of celestial bodies
+sci-astronomy/libthesky 0.4.1-r1 0.4.2: Fortran library to compute positions of celestial bodies
 sci-astronomy/rocheplot 0.1.0: Plot the key stages in the evolution of a binary star
 sci-astronomy/skychart-bin 3.6.2150: Free software to draw sky charts, also known as Cartes du Ciel
 sci-astronomy/soltrack 2.1 2.2: A simple, free, fast and accurate routine to compute the position of the Sun
@@ -51,7 +51,7 @@ sci-libs/lalsuite 6.15: LAL - LIGO-Virgo data-analysis software suite
 sci-libs/lalxml 1.1.0 1.1.2 1.1.7: Handle XML for LIGO/Virgo data-analysis libraries
 sci-libs/levmar 2.6-r2: Levenberg-Marquardt nonlinear least squares C library
 sci-libs/libframe 8.08 8.15 8.17.2: Handle the Frame data format for the gravitational-wave detectors Virgo and LIGO
-sci-libs/libsufr 0.7.4-r1 0.7.5-r1: LIBrary of Some Useful Fortran Routines
+sci-libs/libsufr 0.7.5-r1 0.7.6 0.7.7: LIBrary of Some Useful Fortran Routines
 sci-libs/metaio 7.2 8.2 8.2.1 8.3.0: A library for parsing LIGO/Virgo LIGO_LW Table files
 sci-libs/pg2plplot 5.12.0 5.13.0: Assist the transition from PGPlot to PLplot in Fortran programs
 sci-libs/pgplot 5.2.2-r99: FORTRAN/C device-independent scientific graphic library
