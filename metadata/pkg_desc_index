@@ -1,13 +1,10 @@
 app-portage/gentmaint 0.3.1 0.3.2: A collection of scripts to aid Gentoo maintenance
 app-text/epubcheck 1.0.5-r1: Verify .epub eBook format
-dev-libs/nidaqmx-dummy 0.1: Dummy library to compile and link code using NI DAQmx under Linux
 dev-libs/xml-fortran 1.00: Library and programs to access XML-files in Fortran
 dev-perl/Astro-satpass 0.067-r1: A Perl module to compute satellite passages for a given observing location
 dev-python/pylibacl 0.5.3-r1: POSIX ACLs (Access Control Lists) for Python
 dev-qt/qt-meta 5.5.0: Cross-platform application development framework (metapackage)
 dev-tex/html2latex 1.1-r2: Perl script to convert HTML files into formatted LaTeX
-dev-util/appinventor2 1.1: MIT App Inventor2 Setup package
-dev-util/dh-make 0.63: Tool to generate a Debian-style source package from a regular source code archive
 dev-vcs/pro-git-html 904: Pro Git: an open-source book on Git by Scott Chacon and Ben Straub (English HTML version)
 gnome-extra/libgda 5.2.8-r3: GNOME database access library
 media-gfx/tex2im 1.8: Tex2im converts LaTeX formulae into high-resolution bitmap graphics.
