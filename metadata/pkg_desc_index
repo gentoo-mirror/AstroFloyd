@@ -1,6 +1,3 @@
-app-emulation/vmware-horizon-client-bin 4.3.0: Binary version of VMware horizon client
-app-emulation/vmware-view-open-client 4.5.0.297975-r2: Open Source VMware View Client
-app-emulation/vmware-view-open-client-pcoip-bin 9999: Binary version of VMware open client using the PCoIP protocol
 app-portage/gentmaint 0.3.1 0.3.2: A collection of scripts to aid Gentoo maintenance
 app-text/epubcheck 1.0.5-r1: Verify .epub eBook format
 dev-libs/nidaqmx-dummy 0.1: Dummy library to compile and link code using NI DAQmx under Linux
@@ -61,4 +58,3 @@ sys-apps/man-pages-fortran 0.1.0-r1: Man pages for the Fortran language
 sys-apps/man-pages-linux-kernel-api 4.5.2: Man pages for the Linux Kernel API
 sys-cluster/opencoarrays 1.9.3: Implementation of coarrays for gfortran
 sys-kernel/gentoo-sources 4.9.76-r1 5.4.38: Full sources including the Gentoo patchset for the 5.4 kernel tree
-x11-libs/gtk-fortran 2.9999-r1 3.9999-r1 3.9999-r2: Cross-platform Fortran binding to create GUIs for Fortran programs using GTK+

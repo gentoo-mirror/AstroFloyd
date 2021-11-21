@@ -1,9 +1,0 @@
-DEFINED_PHASES=install postinst
-DESCRIPTION=Binary version of VMware open client using the PCoIP protocol
-EAPI=5
-HOMEPAGE=http://www.virtualvcp.com/linux-technical-guides/171-installing-the-vmware-view-pcoip-client-on-linux
-KEYWORDS=~amd64 ~x86
-LICENSE=GPL-3
-SLOT=0
-SRC_URI=mirror://sourceforge/vmware-view-open-client-pcoip-bin/vmware-view-open-client-pcoip-bin-9999.tar.gz
-_md5_=cba2def25cb75f3c2eb86ffe737da1d0
