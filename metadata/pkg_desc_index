@@ -36,7 +36,7 @@ sci-libs/lalburst 1.1.1 1.1.6: Burst package of the LIGO/Virgo libraries
 sci-libs/lalframe 1.0.2 1.0.4 1.0.9: A LAL wrapper for libframe
 sci-libs/lalinference 0.1.0 0.1.1 1.0.1: Bayesian inference data-analysis package for LIGO and Virgo
 sci-libs/lalinspiral 1.1.0 1.2.2 1.4.2: Binary-inspiral package of the LIGO/Virgo libraries
-sci-libs/lalmetaio 1.0.2 1.0.3 1.0.7: A LAL wrapper for the metaio package
+sci-libs/lalmetaio 1.0.7 2.0.3: A LAL wrapper for the metaio package
 sci-libs/lalpulsar 1.2.1 1.6.1: Pulsar (continuous-wave) package of the LIGO/Virgo libraries
 sci-libs/lalsimulation 0.1.1 0.6.1: Simulation package of the LIGO/Virgo libraries
 sci-libs/lalstochastic 1.1.3 1.1.7: Stochastic-background package of the LIGO/Virgo libraries
