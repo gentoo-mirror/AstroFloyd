@@ -26,9 +26,20 @@ sci-electronics/labjack-ljm-64bit:kipling - Install the Kipling program
 sci-geosciences/gpsman:utils - Install utilities for e.g. conversion
 sci-libs/fgsl:doc-html - Installs (~13Mb) of documentation as HTML
 sci-libs/fgsl:doc-pdf - Installs (~4.6Mb) of documentation as PDF
+sci-libs/lal:fast-gsl - Enable fast/inline GSL code [default=no]
+sci-libs/lal:fast-install - Optimize for fast installation [default=yes]
+sci-libs/lal:fftw3-memalign - Use aligned memory optimizations with fftw3
 sci-libs/lal:frame - Adds support for sci-libs/libframe
+sci-libs/lal:intelfft - Use Intel FFT libraries insted of FFTW [default=no]
+sci-libs/lal:macros - Use LAL macros [default=yes]
 sci-libs/lal:metaio - Adds support for sci-libs/metaio
+sci-libs/lal:pthread-lock - Use pthread mutex lock for threadsafety
+sci-libs/lal:python - Build Python programs and modules
 sci-libs/lal:shared-libs - Build shared libraries
+sci-libs/lal:swig - Generate SWIG bindings for all languages
+sci-libs/lal:swig-iface - Generate SWIG interface only
+sci-libs/lal:swig-octave - Generate SWIG bindings for Octave
+sci-libs/lal:swig-python - Generate SWIG bindings for Python
 sci-libs/lalapps:frame - Adds support for sci-libs/lalframe
 sci-libs/lalapps:metaio - Adds support for sci-libs/lalmetaio
 sci-libs/plplot:dynamic - Build with dynamic drivers
