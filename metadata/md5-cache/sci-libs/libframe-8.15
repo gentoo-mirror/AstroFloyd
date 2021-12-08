@@ -1,9 +1,0 @@
-DEFINED_PHASES=compile config install unpack
-DESCRIPTION=Handle the Frame data format for the gravitational-wave detectors Virgo and LIGO.
-EAPI=0
-HOMEPAGE=http://wwwlapp.in2p3.fr/virgo/FrameL/
-KEYWORDS=~amd64 ~x86
-LICENSE=GPL-2
-SLOT=0
-SRC_URI=http://wwwlapp.in2p3.fr/virgo/FrameL/libframe-8.15.tar.gz
-_md5_=31b033f5f1132dd9315c68380e7a0984
