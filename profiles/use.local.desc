@@ -48,6 +48,8 @@ sci-libs/lalmetaio:swig - Generate SWIG bindings for all languages
 sci-libs/lalmetaio:swig-iface - Generate SWIG interface only
 sci-libs/lalmetaio:swig-octave - Generate SWIG bindings for Octave
 sci-libs/lalmetaio:swig-python - Generate SWIG bindings for Python
+sci-libs/libframe:fast-install - Optimize for fast installation
+sci-libs/metaio:fast-install - Optimize for fast installation
 sci-libs/plplot:dynamic - Build with dynamic drivers
 sci-libs/plplot:octave - Add bindings for sci-mathematics/octave
 sci-libs/plplot:pdl - Add bindings for dev-perl/PDL

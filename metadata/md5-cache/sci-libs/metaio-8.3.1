@@ -1,9 +1,12 @@
-DEFINED_PHASES=install
+DEFINED_PHASES=configure install
+DEPEND=sys-libs/zlib
 DESCRIPTION=A library for parsing LIGO/Virgo LIGO_LW Table files
 EAPI=7
 HOMEPAGE=https://www.lsc-group.phys.uwm.edu/daswg/projects/metaio.html
+IUSE=+fast-install static-libs
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
+RDEPEND=sys-libs/zlib
 SLOT=0
 SRC_URI=http://software.ligo.org/lscsoft/source/metaio-8.3.1.tar.gz
-_md5_=e99347064634e6767de70e7ff8525be7
+_md5_=c5d5744606a130dd238a46b7ce18c8f7
