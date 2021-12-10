@@ -40,6 +40,8 @@ sci-libs/lal:swig-octave - Generate SWIG bindings for Octave
 sci-libs/lal:swig-python - Generate SWIG bindings for Python
 sci-libs/lalapps:frame - Adds support for sci-libs/lalframe
 sci-libs/lalapps:metaio - Adds support for sci-libs/lalmetaio
+sci-libs/lalburst:fast-gsl - Enable fast/inline GSL code
+sci-libs/lalburst:fast-install - Optimize for fast installation
 sci-libs/lalframe:fast-install - Optimize for fast installation
 sci-libs/lalframe:framel - Adds support for the FrameL library
 sci-libs/lalframe:python - Build Python programs and modules
@@ -47,6 +49,15 @@ sci-libs/lalframe:swig - Generate SWIG bindings for all languages
 sci-libs/lalframe:swig-iface - Generate SWIG interface only
 sci-libs/lalframe:swig-octave - Generate SWIG bindings for Octave
 sci-libs/lalframe:swig-python - Generate SWIG bindings for Python
+sci-libs/lalinspiral:all-lal - Enable compilation of all LAL libraries
+sci-libs/lalinspiral:fast-gsl - Enable fast/inline GSL code
+sci-libs/lalinspiral:fast-install - Optimize for fast installation
+sci-libs/lalinspiral:lalburst - Compile code that requires sci-libs/lalburst
+sci-libs/lalinspiral:python - Build Python programs and modules
+sci-libs/lalinspiral:swig - Generate SWIG bindings for all languages
+sci-libs/lalinspiral:swig-iface - Generate SWIG interface only
+sci-libs/lalinspiral:swig-octave - Generate SWIG bindings for Octave
+sci-libs/lalinspiral:swig-python - Generate SWIG bindings for Python
 sci-libs/lalmetaio:fast-install - Optimize for fast installation [default=yes]
 sci-libs/lalmetaio:swig - Generate SWIG bindings for all languages
 sci-libs/lalmetaio:swig-iface - Generate SWIG interface only
@@ -63,6 +74,14 @@ sci-libs/lalpulsar:swig - Generate SWIG bindings for all languages
 sci-libs/lalpulsar:swig-iface - Generate SWIG interface only
 sci-libs/lalpulsar:swig-octave - Generate SWIG bindings for Octave
 sci-libs/lalpulsar:swig-python - Generate SWIG bindings for Python
+sci-libs/lalsimulation:fast-gsl - Enable fast/inline GSL code
+sci-libs/lalsimulation:fast-install - Optimize for fast installation
+sci-libs/lalsimulation:openmp - Add support for sys-cluster/openmpi
+sci-libs/lalsimulation:python - Build Python programs and modules
+sci-libs/lalsimulation:swig - Generate SWIG bindings for all languages
+sci-libs/lalsimulation:swig-iface - Generate SWIG interface only
+sci-libs/lalsimulation:swig-octave - Generate SWIG bindings for Octave
+sci-libs/lalsimulation:swig-python - Generate SWIG bindings for Python
 sci-libs/ldas-tools-framecpp:fast-install - Optimize for fast installation
 sci-libs/libframe:fast-install - Optimize for fast installation
 sci-libs/metaio:fast-install - Optimize for fast installation

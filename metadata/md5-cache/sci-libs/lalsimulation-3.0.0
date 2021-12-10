@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure postinst
+DEPEND=sci-libs/gsl sci-libs/lal openmp? ( sys-cluster/openmpi ) python? ( dev-lang/python:* ) swig-octave? ( sci-mathematics/octave ) swig-python? ( dev-lang/python:* ) doc? ( app-doc/doxygen ) swig? ( dev-lang/swig ) swig-iface? ( dev-lang/swig ) swig-octave? ( dev-lang/swig ) swig-python? ( dev-lang/swig )
+DESCRIPTION=Simulation package of the LIGO/Virgo libraries
+EAPI=8
+HOMEPAGE=https://wiki.ligo.org/Computing/LALSuite
+IUSE=doc -fast-gsl +fast-install openmp python static-libs +swig +swig-iface -swig-octave -swig-python
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=sci-libs/gsl sci-libs/lal openmp? ( sys-cluster/openmpi ) python? ( dev-lang/python:* ) swig-octave? ( sci-mathematics/octave ) swig-python? ( dev-lang/python:* )
+SLOT=0
+SRC_URI=https://software.igwn.org/sources/source/lalsuite/lalsimulation-3.0.0.tar.xz
+_md5_=f815f0c93a626f5ab075151cef1c7e80
