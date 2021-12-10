@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure postinst
+DEPEND=sci-libs/lal sci-libs/ldas-tools-framecpp python? ( dev-lang/python:* ) swig-octave? ( sci-mathematics/octave ) swig-python? ( dev-lang/python:* ) doc? ( app-doc/doxygen ) swig? ( dev-lang/swig ) swig-iface? ( dev-lang/swig ) swig-octave? ( dev-lang/swig ) swig-python? ( dev-lang/swig )
+DESCRIPTION=A LAL wrapper for libframe
+EAPI=8
+HOMEPAGE=https://wiki.ligo.org/Computing/LALSuite
+IUSE=doc +fast-install +framel python static-libs +swig +swig-iface -swig-octave -swig-python
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=sci-libs/lal sci-libs/ldas-tools-framecpp python? ( dev-lang/python:* ) swig-octave? ( sci-mathematics/octave ) swig-python? ( dev-lang/python:* )
+SLOT=0
+SRC_URI=https://software.igwn.org/sources/source/lalsuite/lalframe-1.5.5.tar.xz
+_md5_=86da28f88852c90b2a51d9a931c19812
