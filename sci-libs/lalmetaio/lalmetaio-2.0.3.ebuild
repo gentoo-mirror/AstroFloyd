@@ -12,22 +12,26 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE="doc +fast-install python static-libs +swig +swig-iface -swig-octave -swig-python"
 
-DEPEND="sci-libs/lal
-		>=sci-libs/metaio-8.0
-		sci-libs/fftw
-		sci-libs/gsl
-		sys-libs/zlib
+RDEPEND="sci-libs/lal
+		 >=sci-libs/metaio-8.0
+		 sci-libs/fftw
+		 sci-libs/gsl
+		 sys-libs/zlib
+		 swig-octave? ( sci-mathematics/octave )
+		 swig-python? ( dev-lang/python:* )
+	"
+DEPEND="
+		${RDEPEND}
+		doc? ( app-doc/doxygen )
 		swig? ( dev-lang/swig )
 		swig-iface? ( dev-lang/swig )
-		swig-octave? ( dev-lang/swig
-					   sci-mathematics/octave )
-		swig-python? ( dev-lang/swig
-					   dev-lang/python:* )
-	"
-RDEPEND=${DEPEND}
+		swig-octave? ( dev-lang/swig )
+		swig-python? ( dev-lang/swig )
+		"
 
 src_configure() {
 	econf \
+		$(use_enable doc doxygen) \
 		$(use_enable fast-install) \
 		$(use_enable python) \
 		$(use_enable static-libs static) \
@@ -35,10 +39,9 @@ src_configure() {
 		$(use_enable swig-iface) \
 		$(use_enable swig-octave) \
 		$(use_enable swig-python) \
+		--enable-help2man    # generate man pages with help2man
 		# Not sure:
 		#		$(use_disable libtool-lock) \     avoid locking (might break parallel builds)
-		#		$(use_enable doxygen) \           generate Doxygen documentation
-		#		$(use_enable help2man) \          automatically generate man pages with help2man [default=yes]
 }
 
 pkg_postinst() {
