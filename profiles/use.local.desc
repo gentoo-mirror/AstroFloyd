@@ -49,6 +49,23 @@ sci-libs/lalframe:swig - Generate SWIG bindings for all languages
 sci-libs/lalframe:swig-iface - Generate SWIG interface only
 sci-libs/lalframe:swig-octave - Generate SWIG bindings for Octave
 sci-libs/lalframe:swig-python - Generate SWIG bindings for Python
+sci-libs/lalinference:all-lal - Enable/disable compilation of all LAL libraries
+sci-libs/lalinference:doc - Generate Doxygen documentation
+sci-libs/lalinference:fast-gsl - Enable fast/inline GSL code
+sci-libs/lalinference:fast-install - Optimize for fast installation
+sci-libs/lalinference:lalburst - Compile code that requires lalburst library
+sci-libs/lalinference:lalframe - Compile code that requires lalframe library
+sci-libs/lalinference:lalinspiral - Compile code that requires lalinspiral library
+sci-libs/lalinference:lalmetaio - Compile code that requires lalmetaio library
+sci-libs/lalinference:lalpulsar - Compile code that requires lalpulsar library
+sci-libs/lalinference:mpi - Compile using MPI for supported codes
+sci-libs/lalinference:openmp - Use OpenMP
+sci-libs/lalinference:python - Build Python programs and modules
+sci-libs/lalinference:static-libs - Build static libraries
+sci-libs/lalinference:swig - Generate SWIG bindings for all languages
+sci-libs/lalinference:swig-iface - Generate SWIG interface only
+sci-libs/lalinference:swig-octave - Generate SWIG bindings for Octave
+sci-libs/lalinference:swig-python - Generate SWIG bindings for Python
 sci-libs/lalinspiral:all-lal - Enable compilation of all LAL libraries
 sci-libs/lalinspiral:fast-gsl - Enable fast/inline GSL code
 sci-libs/lalinspiral:fast-install - Optimize for fast installation

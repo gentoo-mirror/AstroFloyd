@@ -35,7 +35,7 @@ sci-libs/lal 6.9.1 7.1.4: Core routines for gravitational-wave data analysis wit
 sci-libs/lalapps 6.6.1 6.6.2 6.11.2: Applications for gravitational-wave data analysis with LIGO/Virgo
 sci-libs/lalburst 1.1.6 1.5.9: Burst package of the LIGO/Virgo libraries
 sci-libs/lalframe 1.0.9 1.5.5: A LAL wrapper for libframe
-sci-libs/lalinference 0.1.0 0.1.1 1.0.1: Bayesian inference data-analysis package for LIGO and Virgo
+sci-libs/lalinference 1.0.1 3.0.0: Bayesian inference data-analysis package for LIGO and Virgo
 sci-libs/lalinspiral 1.4.2 2.0.3: Binary-inspiral package of the LIGO/Virgo libraries
 sci-libs/lalmetaio 1.0.7 2.0.3: A LAL wrapper for the metaio package
 sci-libs/lalpulsar 1.6.1 3.1.0: Pulsar (continuous-wave) package of the LIGO/Virgo libraries
