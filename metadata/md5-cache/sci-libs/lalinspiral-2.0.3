@@ -1,12 +1,12 @@
 DEFINED_PHASES=configure postinst
-DEPEND=sci-libs/gsl sci-libs/lalframe sci-libs/lalmetaio sci-libs/lalsimulation sci-libs/lal sci-libs/metaio python? ( dev-lang/python:* ) swig-octave? ( sci-mathematics/octave ) swig-python? ( dev-lang/python:* ) doc? ( app-doc/doxygen ) swig? ( dev-lang/swig ) swig-iface? ( dev-lang/swig ) swig-octave? ( dev-lang/swig ) swig-python? ( dev-lang/swig )
+DEPEND=sci-libs/gsl sci-libs/metaio sci-libs/lal sci-libs/lalframe sci-libs/lalmetaio sci-libs/lalburst sci-libs/lalsimulation python? ( dev-lang/python:* ) swig-octave? ( sci-mathematics/octave ) swig-python? ( dev-lang/python:* ) doc? ( app-doc/doxygen ) swig? ( dev-lang/swig ) swig-iface? ( dev-lang/swig ) swig-octave? ( dev-lang/swig ) swig-python? ( dev-lang/swig )
 DESCRIPTION=Binary-inspiral package of the LIGO/Virgo libraries
 EAPI=8
 HOMEPAGE=https://wiki.ligo.org/Computing/LALSuite
 IUSE=all-lal doc -fast-gsl +fast-install lalburst python static-libs +swig +swig-iface -swig-octave -swig-python
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=sci-libs/gsl sci-libs/lalframe sci-libs/lalmetaio sci-libs/lalsimulation sci-libs/lal sci-libs/metaio python? ( dev-lang/python:* ) swig-octave? ( sci-mathematics/octave ) swig-python? ( dev-lang/python:* )
+RDEPEND=sci-libs/gsl sci-libs/metaio sci-libs/lal sci-libs/lalframe sci-libs/lalmetaio sci-libs/lalburst sci-libs/lalsimulation python? ( dev-lang/python:* ) swig-octave? ( sci-mathematics/octave ) swig-python? ( dev-lang/python:* )
 SLOT=0
 SRC_URI=https://software.igwn.org/sources/source/lalsuite/lalinspiral-2.0.3.tar.xz
-_md5_=ca1ed367663be6fb3ac128a20b277df1
+_md5_=b409a4101151ab6552526e35b2f49db6
