@@ -38,8 +38,23 @@ sci-libs/lal:swig - Generate SWIG bindings for all languages
 sci-libs/lal:swig-iface - Generate SWIG interface only
 sci-libs/lal:swig-octave - Generate SWIG bindings for Octave
 sci-libs/lal:swig-python - Generate SWIG bindings for Python
+sci-libs/lalapps:all-lal - Enable/disable compilation of all LAL libraries
+sci-libs/lalapps:cfitsio - Compile code that requires cfitsio library
+sci-libs/lalapps:fast-gsl - Enable fast/inline GSL code
+sci-libs/lalapps:fast-install - 
+sci-libs/lalapps:fftw - Compile code that requires the sci-libs/fftw3 library
 sci-libs/lalapps:frame - Adds support for sci-libs/lalframe
+sci-libs/lalapps:framel - Compile code that requires the sci-libs/ldas-tools-framecpp library
+sci-libs/lalapps:lalburst - Compile code that requires the sci-libs/lalburst library
+sci-libs/lalapps:lalframe - Compile code that requires the sci-libs/lalframe library
+sci-libs/lalapps:lalinference - Compile code that requires the sci-libs/lalinference library
+sci-libs/lalapps:lalinspiral - Compile code that requires the sci-libs/lalinspiral library
+sci-libs/lalapps:lalmetaio - Compile code that requires the sci-libs/lalmetaio library
+sci-libs/lalapps:lalpulsar - Compile code that requires the sci-libs/lalpulsar library
+sci-libs/lalapps:lalsimulation - Compile code that requires the sci-libs/lalsimulation library
 sci-libs/lalapps:metaio - Adds support for sci-libs/lalmetaio
+sci-libs/lalapps:python - Build Python programs and modules
+sci-libs/lalapps:static-binaries - Build static binaries
 sci-libs/lalburst:fast-gsl - Enable fast/inline GSL code
 sci-libs/lalburst:fast-install - Optimize for fast installation
 sci-libs/lalframe:fast-install - Optimize for fast installation

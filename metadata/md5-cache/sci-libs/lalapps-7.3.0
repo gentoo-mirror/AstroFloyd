@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure postinst
+DEPEND=sci-libs/gsl sci-libs/lal cfitsio? ( sci-libs/cfitsio ) fftw? ( sci-libs/fftw ) framel? ( sci-libs/ldas-tools-framecpp ) lalframe? ( sci-libs/lalframe ) lalmetaio? ( sci-libs/lalmetaio ) lalsimulation? ( sci-libs/lalsimulation ) lalburst? ( sci-libs/lalburst ) lalinspiral? ( sci-libs/lalinspiral ) lalpulsar? ( sci-libs/lalpulsar ) lalinference? ( sci-libs/lalinference ) python? ( dev-lang/python:* ) doc? ( app-doc/doxygen )
+DESCRIPTION=Applications for gravitational-wave data analysis with LIGO/Virgo
+EAPI=8
+HOMEPAGE=https://wiki.ligo.org/Computing/LALSuite
+IUSE=all-lal cfitsio doc -fast-gsl +fast-install fftw framel lalframe lalmetaio lalsimulation lalburst lalinspiral lalpulsar lalinference python static-binaries static-libs
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=sci-libs/gsl sci-libs/lal cfitsio? ( sci-libs/cfitsio ) fftw? ( sci-libs/fftw ) framel? ( sci-libs/ldas-tools-framecpp ) lalframe? ( sci-libs/lalframe ) lalmetaio? ( sci-libs/lalmetaio ) lalsimulation? ( sci-libs/lalsimulation ) lalburst? ( sci-libs/lalburst ) lalinspiral? ( sci-libs/lalinspiral ) lalpulsar? ( sci-libs/lalpulsar ) lalinference? ( sci-libs/lalinference ) python? ( dev-lang/python:* )
+SLOT=0
+SRC_URI=https://software.igwn.org/sources/source/lalsuite/lalapps-7.3.0.tar.xz
+_md5_=ae6c0c314e1f6fc2098ea05d469d1bde
