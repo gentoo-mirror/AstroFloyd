@@ -114,6 +114,14 @@ sci-libs/lalsimulation:swig - Generate SWIG bindings for all languages
 sci-libs/lalsimulation:swig-iface - Generate SWIG interface only
 sci-libs/lalsimulation:swig-octave - Generate SWIG bindings for Octave
 sci-libs/lalsimulation:swig-python - Generate SWIG bindings for Python
+sci-libs/lalsuite:lalapps - Include the sci-libs/lalapps package
+sci-libs/lalsuite:lalburst - Include the sci-libs/lalburst package
+sci-libs/lalsuite:lalframe - Include the sci-libs/lalframe package
+sci-libs/lalsuite:lalinference - Include the sci-libs/lalinference package
+sci-libs/lalsuite:lalinspiral - Include the sci-libs/lalinspiral package
+sci-libs/lalsuite:lalmetaio - Include the sci-libs/lalmetaio package
+sci-libs/lalsuite:lalpulsar - Include the sci-libs/lalpulsar package
+sci-libs/lalsuite:lalsimulation - Include the sci-libs/lalsimulation package
 sci-libs/ldas-tools-framecpp:fast-install - Optimize for fast installation
 sci-libs/libframe:fast-install - Optimize for fast installation
 sci-libs/metaio:fast-install - Optimize for fast installation
