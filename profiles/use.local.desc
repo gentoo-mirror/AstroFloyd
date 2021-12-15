@@ -26,6 +26,12 @@ sci-electronics/labjack-ljm-64bit:kipling - Install the Kipling program
 sci-geosciences/gpsman:utils - Install utilities for e.g. conversion
 sci-libs/fgsl:doc-html - Installs (~13Mb) of documentation as HTML
 sci-libs/fgsl:doc-pdf - Installs (~4.6Mb) of documentation as PDF
+sci-libs/gds:fast-install - 
+sci-libs/gds:largefile - Omit support for large files
+sci-libs/gds:libtool-lock - Avoid locking (might break parallel builds)
+sci-libs/gds:monitors - Build all monitors
+sci-libs/gds:omega - Build Omega_c only
+sci-libs/gds:online - Online program version
 sci-libs/lal:fast-gsl - Enable fast/inline GSL code
 sci-libs/lal:fast-install - Optimize for fast installation
 sci-libs/lal:fftw3-memalign - Use aligned memory optimizations with fftw3
