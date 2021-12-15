@@ -114,11 +114,6 @@ sci-libs/lalsimulation:swig - Generate SWIG bindings for all languages
 sci-libs/lalsimulation:swig-iface - Generate SWIG interface only
 sci-libs/lalsimulation:swig-octave - Generate SWIG bindings for Octave
 sci-libs/lalsimulation:swig-python - Generate SWIG bindings for Python
-sci-libs/lalsuite:all-lal - Enable/disable compilation of all LAL libraries
-sci-libs/lalsuite:cfitsio - Compile code that requires cfitsio library
-sci-libs/lalsuite:fast-gsl - Enable fast/inline GSL code
-sci-libs/lalsuite:fast-install - Optimize for fast installation
-sci-libs/lalsuite:framel - Compile code that requires the sci-libs/ldas-tools-framecpp library
 sci-libs/lalsuite:lalapps - Include the sci-libs/lalapps package
 sci-libs/lalsuite:lalburst - Include the sci-libs/lalburst package
 sci-libs/lalsuite:lalframe - Include the sci-libs/lalframe package
@@ -127,12 +122,6 @@ sci-libs/lalsuite:lalinspiral - Include the sci-libs/lalinspiral package
 sci-libs/lalsuite:lalmetaio - Include the sci-libs/lalmetaio package
 sci-libs/lalsuite:lalpulsar - Include the sci-libs/lalpulsar package
 sci-libs/lalsuite:lalsimulation - Include the sci-libs/lalsimulation package
-sci-libs/lalsuite:mpi - Compile using MPI for supported codes
-sci-libs/lalsuite:static-binaries - Build static binaries
-sci-libs/lalsuite:swig - Generate SWIG bindings for all languages
-sci-libs/lalsuite:swig-iface - Generate SWIG interface only
-sci-libs/lalsuite:swig-octave - Generate SWIG bindings for Octave
-sci-libs/lalsuite:swig-python - Generate SWIG bindings for Python
 sci-libs/ldas-tools-framecpp:fast-install - Optimize for fast installation
 sci-libs/libframe:fast-install - Optimize for fast installation
 sci-libs/metaio:fast-install - Optimize for fast installation
