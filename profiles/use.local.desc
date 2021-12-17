@@ -36,6 +36,11 @@ sci-libs/gstlal:fast-install - Optimize for fast installation
 sci-libs/gstlal:libtool-lock - Avoid locking (might break parallel builds)
 sci-libs/gstlal-burst:fast-install - Optimize for fast installation
 sci-libs/gstlal-burst:libtool-lock - Avoid locking (might break parallel builds)
+sci-libs/gstlal-calibration:fast-install - Optimize for fast installation
+sci-libs/gstlal-calibration:libtool-lock - Avoid locking (might break parallel builds)
+sci-libs/gstlal-inspiral:fast-install - Optimize for fast installation
+sci-libs/gstlal-inspiral:libtool-lock - Avoid locking (might break parallel builds)
+sci-libs/gstlal-inspiral:openmp - Use OpenMP
 sci-libs/lal:fast-gsl - Enable fast/inline GSL code
 sci-libs/lal:fast-install - Optimize for fast installation
 sci-libs/lal:fftw3-memalign - Use aligned memory optimizations with fftw3
