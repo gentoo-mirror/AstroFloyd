@@ -32,6 +32,12 @@ sci-libs/gds:libtool-lock - Avoid locking (might break parallel builds)
 sci-libs/gds:monitors - Build all monitors
 sci-libs/gds:omega - Build Omega_c only
 sci-libs/gds:online - Online program version
+sci-libs/gds-lsmp:fast-install - 
+sci-libs/gds-lsmp:largefile - Omit support for large files
+sci-libs/gds-lsmp:libtool-lock - Avoid locking (might break parallel builds)
+sci-libs/gds-lsmp:monitors - Build all monitors
+sci-libs/gds-lsmp:omega - Build Omega_c only
+sci-libs/gds-lsmp:online - Online program version
 sci-libs/gstlal:fast-install - Optimize for fast installation
 sci-libs/gstlal:libtool-lock - Avoid locking (might break parallel builds)
 sci-libs/gstlal-burst:fast-install - Optimize for fast installation
