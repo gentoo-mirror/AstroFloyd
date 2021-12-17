@@ -9,9 +9,6 @@
     <flag name='fast-install'>Optimize for fast installation</flag>
     <flag name='libtool-lock'>Avoid locking (might break parallel builds)</flag>
     <!--
-    <flag name='gtk-doc-html'>Build documentation in html format</flag>
-    <flag name='gtk-doc-pdf'>Build documentation in pdf format</flag>
-    <flag name='gtk-doc'>Use gtk-doc to build documentation</flag>
     <flag name='introspection'></flag>
     -->
   </use>
