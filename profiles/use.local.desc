@@ -32,6 +32,8 @@ sci-libs/gds:libtool-lock - Avoid locking (might break parallel builds)
 sci-libs/gds:monitors - Build all monitors
 sci-libs/gds:omega - Build Omega_c only
 sci-libs/gds:online - Online program version
+sci-libs/gstlal:fast-install - 
+sci-libs/gstlal:libtool-lock - Avoid locking (might break parallel builds)
 sci-libs/lal:fast-gsl - Enable fast/inline GSL code
 sci-libs/lal:fast-install - Optimize for fast installation
 sci-libs/lal:fftw3-memalign - Use aligned memory optimizations with fftw3
