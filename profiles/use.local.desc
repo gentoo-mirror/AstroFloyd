@@ -47,6 +47,17 @@ sci-libs/gds-frameio:monitors - Build all monitors
 sci-libs/gds-frameio:omega - Build Omega_c only
 sci-libs/gds-frameio:online - Online program version
 sci-libs/gds-frameio:only-dtt - Build dtt only
+sci-libs/gds-gui:dmtviewer - Add dmtviewer anyway
+sci-libs/gds-gui:dtt - Build dtt
+sci-libs/gds-gui:fast-install - Optimize for fast installation
+sci-libs/gds-gui:gui - Build dtt with gui
+sci-libs/gds-gui:largefile - Support for large files
+sci-libs/gds-gui:libtool-lock - Avoid locking (might break parallel builds)
+sci-libs/gds-gui:monitors - Build all monitors
+sci-libs/gds-gui:omega - Build Omega_c only
+sci-libs/gds-gui:online - Online program version
+sci-libs/gds-gui:only-dtt - Build dtt only
+sci-libs/gds-gui:root-objects - Build root dictionary in shared objects
 sci-libs/gds-lsmp:fast-install - 
 sci-libs/gds-lsmp:largefile - Omit support for large files
 sci-libs/gds-lsmp:libtool-lock - Avoid locking (might break parallel builds)

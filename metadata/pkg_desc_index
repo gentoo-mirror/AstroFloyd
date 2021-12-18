@@ -33,6 +33,7 @@ sci-libs/fgsl 1.0.0 1.1.0 1.2.0: A Fortran interface to the GNU Scientific Libra
 sci-libs/gds 2.19.7: LIGO Global Diagnostic System
 sci-libs/gds-dmt 2.19.0: LIGO Global Diagnostic System
 sci-libs/gds-frameio 2.19.5: LIGO Global Diagnostic System
+sci-libs/gds-gui 2.19.6: LIGO Global Diagnostic System
 sci-libs/gds-lsmp 2.19.7: LIGO Global Diagnostic System
 sci-libs/gstlal 1.9.0: A gstreamer library for the LIGO Analysis Language
 sci-libs/gstlal-burst 0.3.1: A gstreamer library for the LIGO Analysis Language
