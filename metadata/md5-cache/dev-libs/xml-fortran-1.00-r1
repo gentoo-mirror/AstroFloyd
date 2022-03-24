@@ -11,5 +11,5 @@ LICENSE=BSD
 RDEPEND=virtual/fortran virtual/fortran
 SLOT=0
 SRC_URI=mirror://sourceforge/xml-fortran/xml-fortran-1.00.tar.gz
-_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	fortran-2	a85daa133d055abaa5ec7504ab4a4c27
+_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	fortran-2	72d28c6872beb1e7cb99684b0ae4715d
 _md5_=89ea4c7b2b7c2559f12374f2c49f3b32
