@@ -5,7 +5,7 @@ dev-python/pylibacl 0.5.3-r1: POSIX ACLs (Access Control Lists) for Python
 dev-qt/qt-meta 5.5.0: Cross-platform application development framework (metapackage)
 dev-vcs/pro-git-html 904: Pro Git: an open-source book on Git by Scott Chacon and Ben Straub (English HTML version)
 media-gfx/tex2im 1.8: Tex2im converts LaTeX formulae into high-resolution bitmap graphics.
-media-plugins/gimp-plugin-astronomy 0.9: Gimp plugins for astronomical image processing
+media-plugins/gimp-plugin-astronomy 0.10: Gimp plugins for astronomical image processing
 media-sound/amarok 2.8.90-r9001: Advanced audio player based on KDE framework
 net-im/skypeforlinux 8.56.0.103-r2: Instant messaging client, with support for audio and video
 net-im/whatsapp-purple 9999: Whatsapp plugin for libpurple (Pidgin)

@@ -1,0 +1,12 @@
+DEFINED_PHASES=-
+DEPEND=>=media-gfx/gimp-2.3 sci-libs/gsl >=x11-libs/gtk+-2.7:2 fftw? ( sci-libs/fftw:3.0 )
+DESCRIPTION=Gimp plugins for astronomical image processing
+EAPI=8
+HOMEPAGE=http://www.hennigbuam.de/georg/gimp.html
+IUSE=fftw
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=>=media-gfx/gimp-2.3 sci-libs/gsl >=x11-libs/gtk+-2.7:2 fftw? ( sci-libs/fftw:3.0 )
+SLOT=0
+SRC_URI=http://www.hennigbuam.de/georg/downloads/gimp-plugin-astronomy-0.10.tar.bz2
+_md5_=d927b044fb30dd48387cf4c58fbec433
