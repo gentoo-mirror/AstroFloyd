@@ -1,0 +1,15 @@
+BDEPEND=virtual/fortran
+DEFINED_PHASES=configure install setup
+DEPEND=>=sci-libs/gsl-2.5 virtual/pkgconfig virtual/fortran
+DESCRIPTION=A Fortran interface to the GNU Scientific Library
+EAPI=8
+HOMEPAGE=https://doku.lrz.de/display/PUBLIC/FGSL+-+A+Fortran+interface+to+the+GNU+Scientific+Library
+INHERIT=fortran-2
+IUSE=doc-html doc-pdf examples static-libs
+KEYWORDS=~amd64 ~amd64-linux
+LICENSE=GPL-2
+RDEPEND=>=sci-libs/gsl-2.5 virtual/fortran
+SLOT=0
+SRC_URI=https://doku.lrz.de/download/attachments/43321199/fgsl-1.4.0.tar.gz
+_eclasses_=toolchain-funcs	e9da88162e7a3c60376e80c2c2adcdfb	multilib	4fbbbc98f236f1b43acd99476bc3cd85	fortran-2	72d28c6872beb1e7cb99684b0ae4715d
+_md5_=19c0a1a2804fc3efab0da5bf8cf1ac62
