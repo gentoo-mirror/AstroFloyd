@@ -11,10 +11,8 @@ net-im/skypeforlinux 8.56.0.103-r2: Instant messaging client, with support for a
 net-im/whatsapp-purple 9999: Whatsapp plugin for libpurple (Pidgin)
 net-mail/davmail-bin 4.8.0: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/mu 1.7.13: Set of tools to deal with Maildirs, in particular, searching and indexing
-net-misc/globus-toolkit 5.2.0: An open source software toolkit used for building grids.
-net-misc/ldg-cert-util 2.7: Util to manage certificates for the LIGO/Virgo LSC DataGrid (LDG).
-net-misc/ldg-version 1.0.3: Tool to report the version of the LIGO/Virgo LSC DataGrid (LDG) software installed.
-net-misc/onedrive 1.1.1: Free OneDrive client written in D
+net-misc/ldg-cert-util 2.7-r1: Util to manage certificates for the LIGO/Virgo LSC DataGrid (LDG).
+net-misc/ldg-version 1.0.3-r1: Report the version of the LIGO/Virgo LSC DataGrid (LDG) software installed.
 net-misc/owncloud-client 2.3.1-r1: Synchronize files from ownCloud Server with your computer
 sci-astronomy/analysemcmc 0.7.2: Analyse output from the gravitational-wave data-analysis code SPINspiral
 sci-astronomy/astrotools 0.0.1 0.0.3: Command-line tools for astronomy and astrophysics
