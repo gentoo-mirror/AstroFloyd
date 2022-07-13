@@ -1,12 +1,12 @@
 DEFINED_PHASES=configure install
-DEPEND=>=dev-lang/python-3:* dev-libs/glib dev-libs/openssl media-libs/gst-plugins-base media-libs/gstreamer sci-libs/fftw sci-libs/gsl sci-libs/gstlal sci-libs/hdf5 sci-libs/lalburst sci-libs/lalframe sci-libs/lalinspiral sci-libs/lalmetaio sci-libs/lalsimulation sci-libs/lal sci-libs/ldas-tools-al sci-libs/ldas-tools-framecpp sci-libs/metaio sys-libs/zlib
+DEPEND=>=dev-lang/python-3:* dev-libs/glib dev-libs/openssl media-libs/gst-plugins-base media-libs/gstreamer sci-libs/fftw sci-libs/gsl sci-libs/gstlal sci-libs/hdf5 sci-libs/lalburst sci-libs/lalframe sci-libs/lalinspiral sci-libs/lalmetaio sci-libs/lalsimulation sci-libs/lal[swig-python] sci-libs/ldas-tools-al sci-libs/ldas-tools-framecpp sci-libs/metaio sys-libs/zlib
 DESCRIPTION=A gstreamer library for the LIGO Analysis Language
 EAPI=8
 HOMEPAGE=https://lscsoft.docs.ligo.org/gstlal/
 IUSE=doc +fast-install libtool-lock +openmp static-libs
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=>=dev-lang/python-3:* dev-libs/glib dev-libs/openssl media-libs/gst-plugins-base media-libs/gstreamer sci-libs/fftw sci-libs/gsl sci-libs/gstlal sci-libs/hdf5 sci-libs/lalburst sci-libs/lalframe sci-libs/lalinspiral sci-libs/lalmetaio sci-libs/lalsimulation sci-libs/lal sci-libs/ldas-tools-al sci-libs/ldas-tools-framecpp sci-libs/metaio sys-libs/zlib
+RDEPEND=>=dev-lang/python-3:* dev-libs/glib dev-libs/openssl media-libs/gst-plugins-base media-libs/gstreamer sci-libs/fftw sci-libs/gsl sci-libs/gstlal sci-libs/hdf5 sci-libs/lalburst sci-libs/lalframe sci-libs/lalinspiral sci-libs/lalmetaio sci-libs/lalsimulation sci-libs/lal[swig-python] sci-libs/ldas-tools-al sci-libs/ldas-tools-framecpp sci-libs/metaio sys-libs/zlib
 SLOT=0
 SRC_URI=http://software.ligo.org/lscsoft/source/gstlal-inspiral-1.9.2.tar.gz
-_md5_=68e7630a0e387d955bab383b33f8b8bd
+_md5_=1484b5469c5776d16a6b89a9345e90e6
