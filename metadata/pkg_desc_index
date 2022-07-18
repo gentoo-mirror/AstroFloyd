@@ -8,20 +8,14 @@ media-gfx/tex2im 1.8: Tex2im converts LaTeX formulae into high-resolution bitmap
 media-plugins/gimp-plugin-astronomy 0.10: Gimp plugins for astronomical image processing
 media-sound/amarok 2.8.90-r9001: Advanced audio player based on KDE framework
 net-im/skypeforlinux 8.56.0.103-r2: Instant messaging client, with support for audio and video
-net-im/whatsapp-purple 9999: Whatsapp plugin for libpurple (Pidgin)
 net-mail/davmail-bin 4.8.0: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/mu 1.7.13: Set of tools to deal with Maildirs, in particular, searching and indexing
 net-misc/ldg-cert-util 2.7-r1: Util to manage certificates for the LIGO/Virgo LSC DataGrid (LDG).
 net-misc/ldg-version 1.0.3-r1: Report the version of the LIGO/Virgo LSC DataGrid (LDG) software installed.
 net-misc/owncloud-client 2.3.1-r1: Synchronize files from ownCloud Server with your computer
-sci-astronomy/analysemcmc 0.7.2: Analyse output from the gravitational-wave data-analysis code SPINspiral
-sci-astronomy/astrotools 0.0.1 0.0.3: Command-line tools for astronomy and astrophysics
 sci-astronomy/evtools 0.4.2: Manipulate and display output from the binary stellar-evolution code ev/TWIN
-sci-astronomy/gwtool 0.2.0: Simple command-line tools for working with gravitational waves
 sci-astronomy/libthesky 0.4.1-r1 0.4.2-r1: Fortran library to compute positions of celestial bodies
-sci-astronomy/rocheplot 0.1.0: Plot the key stages in the evolution of a binary star
 sci-astronomy/skychart-bin 3.6.2150: Free software to draw sky charts, also known as Cartes du Ciel
-sci-astronomy/soltrack 2.1 2.2: A simple, free, fast and accurate routine to compute the position of the Sun
 sci-calculators/wcalc 2.5: A flexible command-line scientific calculator
 sci-electronics/labjack-ljm-64bit 20171221-r3: LabJackM driver + C library and Kipling for LabJack T4, T7, and Digit (64-bit)
 sci-geosciences/gpsman 6.4.4.2-r2: A graphical GPS data manager that supports several devices.
@@ -51,7 +45,6 @@ sci-libs/lalxml 1.1.0 1.1.2 1.1.7: Handle XML for LIGO/Virgo data-analysis libra
 sci-libs/ldas-tools-al 2.6.7: LIGO Data Analysis Tools al
 sci-libs/ldas-tools-cmake 1.2.3: CMake scripts for the LIGO Data Analysis Software Tools
 sci-libs/ldas-tools-framecpp 2.6.5: LIGO Data Analysis Tools Frame cpp
-sci-libs/levmar 2.6-r2: Levenberg-Marquardt nonlinear least squares C library
 sci-libs/libframe 8.17.2-r1 8.20 8.30: Handle the Frame data format for the gravitational-wave detectors Virgo and LIGO
 sci-libs/libsufr 0.7.5-r1 0.7.6 0.7.7: LIBrary of Some Useful Fortran Routines
 sci-libs/metaio 8.3.1 8.4.0: A library for parsing LIGO/Virgo LIGO_LW Table files
