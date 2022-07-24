@@ -13,6 +13,7 @@ net-mail/mu 1.7.13: Set of tools to deal with Maildirs, in particular, searching
 net-misc/ldg-cert-util 2.7-r1: Util to manage certificates for the LIGO/Virgo LSC DataGrid (LDG).
 net-misc/ldg-version 1.0.3-r1: Report the version of the LIGO/Virgo LSC DataGrid (LDG) software installed.
 net-misc/owncloud-client 2.3.1-r1: Synchronize files from ownCloud Server with your computer
+sci-astronomy/analysemcmc 0.7.3: Analyse output from the gravitational-wave data-analysis code SPINspiral
 sci-astronomy/evtools 0.4.2: Manipulate and display output from the binary stellar-evolution code ev/TWIN
 sci-astronomy/libthesky 0.4.1-r1 0.4.2-r1: Fortran library to compute positions of celestial bodies
 sci-astronomy/skychart-bin 3.6.2150: Free software to draw sky charts, also known as Cartes du Ciel
