@@ -7,7 +7,6 @@ dev-qt/qt-meta 5.5.0: Cross-platform application development framework (metapack
 dev-vcs/pro-git-html 904: Pro Git: an open-source book on Git by Scott Chacon and Ben Straub (English HTML version)
 media-gfx/tex2im 1.8: Tex2im converts LaTeX formulae into high-resolution bitmap graphics.
 media-plugins/gimp-plugin-astronomy 0.10: Gimp plugins for astronomical image processing
-media-sound/amarok 2.8.90-r9001: Advanced audio player based on KDE framework
 net-im/skypeforlinux 8.56.0.103-r2: Instant messaging client, with support for audio and video
 net-mail/davmail-bin 4.8.0: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/mu 1.7.13: Set of tools to deal with Maildirs, in particular, searching and indexing
@@ -16,7 +15,6 @@ net-misc/ldg-version 1.0.3-r1: Report the version of the LIGO/Virgo LSC DataGrid
 net-misc/owncloud-client 2.3.1-r1: Synchronize files from ownCloud Server with your computer
 sci-astronomy/analysemcmc 0.7.3: Analyse output from the gravitational-wave data-analysis code SPINspiral
 sci-astronomy/astrotools 0.0.3-r1: Command-line tools for astronomy and astrophysics
-sci-astronomy/evtools 0.4.2: Manipulate and display output from the binary stellar-evolution code ev/TWIN
 sci-astronomy/gwtool 0.2.0-r1: Simple command-line tools for working with gravitational waves
 sci-astronomy/libthesky 0.4.1-r1 0.4.2-r1: Fortran library to compute positions of celestial bodies
 sci-astronomy/rocheplot 0.1.0-r1: Plot the key stages in the evolution of a binary star
