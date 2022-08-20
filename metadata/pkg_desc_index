@@ -15,6 +15,7 @@ net-misc/ldg-version 1.0.3-r1: Report the version of the LIGO/Virgo LSC DataGrid
 net-misc/owncloud-client 2.3.1-r1: Synchronize files from ownCloud Server with your computer
 sci-astronomy/analysemcmc 0.7.3: Analyse output from the gravitational-wave data-analysis code SPINspiral
 sci-astronomy/astrotools 0.0.3-r1: Command-line tools for astronomy and astrophysics
+sci-astronomy/evtools 0.4.2-r1: Manipulate and display output from the binary stellar-evolution code ev/TWIN
 sci-astronomy/gwtool 0.2.0-r1: Simple command-line tools for working with gravitational waves
 sci-astronomy/libthesky 0.4.1-r1 0.4.2-r1: Fortran library to compute positions of celestial bodies
 sci-astronomy/rocheplot 0.1.0-r1: Plot the key stages in the evolution of a binary star

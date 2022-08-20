@@ -4,11 +4,6 @@
 
 dev-perl/Astro-satpass:json - Uses dev-perl/JSON to pass JSON orbital data from Space Track to the Astro::Coord::ECI::TLE parse() method
 dev-qt/qt-meta:kde - Select media-libs/phonon as Phonon variant (needed for KDE)
-media-sound/amarok:embedded - Use libmysqld, MySQL embedded server library. Try disabling this if you encounter -PIC related in amarok, it will make amarok rely only on standalone MySQL server.
-media-sound/amarok:mp3tunes - Enable mp3tunes integration
-media-sound/amarok:mtp - Enable support for libMTP (Plays4Sure) devices access through libmtp
-media-sound/amarok:ofa - Use media-libs/libofa to compute MusicDNS acoustic fingerprints (used by MusicBrainz)
-media-sound/amarok:utils - Build the utils - old media-sound/amarok-utils
 net-im/skypeforlinux:pax_kernel - Triggers a paxmarking of the main skype binary
 net-mail/davmail-bin:server - Add a davmail user and an entry to /etc/init.d to use davmail as a service
 net-mail/mu:emacs - Install the mu4e mail client.
