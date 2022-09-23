@@ -1,10 +1,10 @@
 DEFINED_PHASES=install
 DESCRIPTION=A collection of scripts to aid Gentoo maintenance
-EAPI=7
+EAPI=8
 HOMEPAGE=http://gentmaint.sourceforge.net/
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=app-portage/portage-utils app-portage/gentoolkit app-portage/layman app-portage/eix app-arch/bzip2 sys-apps/less sys-process/time
 SLOT=0
 SRC_URI=mirror://sourceforge/gentmaint/gentmaint-0.3.2.tar.gz
-_md5_=036647e7480167ecedfa91ec16349d7b
+_md5_=1705ca105ede68f4841c43ae090388aa

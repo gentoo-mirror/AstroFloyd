@@ -1,4 +1,4 @@
-app-portage/gentmaint 0.3.1 0.3.2: A collection of scripts to aid Gentoo maintenance
+app-portage/gentmaint 0.3.1 0.3.2-r1: A collection of scripts to aid Gentoo maintenance
 dev-libs/sasl-xoauth2 9999: SASL plugin for client-side OAuth 2.0, e.g. Gmail/Outlook/Office/Postfix SMTP
 dev-libs/xml-fortran 1.00-r1: Library and programs to access XML-files in Fortran
 dev-perl/Astro-satpass 0.067-r2: A Perl module to compute satellite passages for a given observing location
