@@ -1,3 +1,5 @@
+app-crypt/kbfs 2.11.0-r1 9999: Keybase Filesystem (KBFS)
+app-crypt/keybase 5.8.1: Client for keybase.io
 app-portage/gentmaint 0.3.1 0.3.2-r1: A collection of scripts to aid Gentoo maintenance
 dev-libs/sasl-xoauth2 9999: SASL plugin for client-side OAuth 2.0, e.g. Gmail/Outlook/Office/Postfix SMTP
 dev-libs/xml-fortran 1.00-r1: Library and programs to access XML-files in Fortran
