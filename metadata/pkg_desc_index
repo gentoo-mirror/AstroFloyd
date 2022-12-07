@@ -10,7 +10,6 @@ dev-vcs/pro-git-html 904: Pro Git: an open-source book on Git by Scott Chacon an
 media-gfx/tex2im 1.8: Tex2im converts LaTeX formulae into high-resolution bitmap graphics.
 media-plugins/gimp-plugin-astronomy 0.10: Gimp plugins for astronomical image processing
 net-im/skypeforlinux 8.56.0.103-r2: Instant messaging client, with support for audio and video
-net-mail/davmail-bin 4.8.0: POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway
 net-mail/mu 1.7.13: Set of tools to deal with Maildirs, in particular, searching and indexing
 net-misc/ldg-cert-util 2.7-r1: Util to manage certificates for the LIGO/Virgo LSC DataGrid (LDG).
 net-misc/ldg-version 1.0.3-r1: Report the version of the LIGO/Virgo LSC DataGrid (LDG) software installed.
