@@ -15,14 +15,16 @@ IUSE=""
 RESTRICT="mirror"
 
 EGIT_REPO_URI="https://github.com/tarickb/sasl-xoauth2.git"
+EGIT_BRANCH="master"
+EGIT_COMMIT="0cabe084"
 
 DEPEND=""
 RDEPEND="${DEPEND}"
 
 src_install() {
-	dobin scripts/sasl-xoauth2-tool
-	dolib.so "$BUILD_DIR/src/libsasl-xoauth2.so"
+	dobin "${S}/scripts/sasl-xoauth2-tool"
+	dolib.so "${BUILD_DIR}/src/libsasl-xoauth2.so"
 	insinto /etc
-	doins src/sasl-xoauth2.conf
+	doins "${S}/src/sasl-xoauth2.conf"
 	dodoc ChangeLog README.md
 }
