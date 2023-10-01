@@ -10,5 +10,5 @@ RDEPEND=app-crypt/gnupg sys-fs/fuse:0=
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/keybase/kbfs/archive/v2.11.0.tar.gz -> kbfs-2.11.0.tar.gz
-_eclasses_=golang-base	9f0e420ab37bc55a318d74bab3aae891	golang-build	b689e250dc38d720b04019511cd5806f	toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	5f4bb0758df2e483babf68cd517078ca
+_eclasses_=golang-base	9f0e420ab37bc55a318d74bab3aae891	golang-build	b689e250dc38d720b04019511cd5806f	toolchain-funcs	fbbbc99d10168de2926e06da7169b8dc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	5f4bb0758df2e483babf68cd517078ca
 _md5_=bb05febe3a2723725a9e79b5467197f2
