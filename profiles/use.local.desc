@@ -77,10 +77,11 @@ sci-libs/lal:swig-python - Generate SWIG bindings for Python
 sci-libs/lalapps:all-lal - Enable/disable compilation of all LAL libraries
 sci-libs/lalapps:cfitsio - Compile code that requires cfitsio library
 sci-libs/lalapps:fast-gsl - Enable fast/inline GSL code
-sci-libs/lalapps:fast-install - 
+sci-libs/lalapps:fast-install - Optimize for fast installation
 sci-libs/lalapps:fftw - Compile code that requires the sci-libs/fftw3 library
 sci-libs/lalapps:frame - Adds support for sci-libs/lalframe
 sci-libs/lalapps:framel - Compile code that requires the sci-libs/ldas-tools-framecpp library
+sci-libs/lalapps:gds - Compile code that requires the sci-libs/gds library
 sci-libs/lalapps:lalburst - Compile code that requires the sci-libs/lalburst library
 sci-libs/lalapps:lalframe - Compile code that requires the sci-libs/lalframe library
 sci-libs/lalapps:lalinference - Compile code that requires the sci-libs/lalinference library
