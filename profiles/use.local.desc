@@ -10,7 +10,6 @@ net-mail/mu:emacs - Install the mu4e mail client.
 net-misc/owncloud-client:dolphin - Install the kde-apps/dolphin extension
 net-misc/owncloud-client:nautilus - Install the gnome-base/nautilus extension
 net-misc/owncloud-client:sftp - Enable sftp transfer support via net-libs/libssh
-sci-astronomy/skychart-bin:xplanet - Enable planet realistic view capability.
 sci-electronics/labjack-ljm-64bit:kipling - Install the Kipling program
 sci-geosciences/gpsman:utils - Install utilities for e.g. conversion
 sci-libs/fgsl:doc-html - Installs (~13Mb) of documentation as HTML
