@@ -4,7 +4,7 @@ dev-libs/xml-fortran 1.00-r1: Library and programs to access XML-files in Fortra
 dev-perl/Astro-satpass 0.067-r2: A Perl module to compute satellite passages for a given observing location
 dev-qt/qt-meta 5.5.0: Cross-platform application development framework (metapackage)
 dev-vcs/pro-git-html 904: Pro Git: an open-source book on Git by Scott Chacon and Ben Straub (English HTML version)
-media-gfx/tex2im 1.8: Tex2im converts LaTeX formulae into high-resolution bitmap graphics.
+media-gfx/tex2im 1.8-r1: Tex2im converts LaTeX formulae into high-resolution bitmap graphics.
 media-plugins/gimp-plugin-astronomy 0.10: Gimp plugins for astronomical image processing
 net-im/skypeforlinux 8.56.0.103-r2: Instant messaging client, with support for audio and video
 net-mail/mu 1.7.13: Set of tools to deal with Maildirs, in particular, searching and indexing
