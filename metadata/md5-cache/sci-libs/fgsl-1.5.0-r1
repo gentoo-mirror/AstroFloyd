@@ -11,5 +11,5 @@ LICENSE=GPL-2
 RDEPEND=>=sci-libs/gsl-2.6 virtual/fortran
 SLOT=0
 SRC_URI=https://doku.lrz.de/files/10746505/10746508/6/1715160191273/fgsl-1.5.0.tar.gz
-_eclasses_=toolchain-funcs	fa554cc3cff825d21dfe3f24841e29cf	multilib	b2a329026f2e404e9e371097dda47f96	fortran-2	54fcb693257134adae26819685891ecc
+_eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	fortran-2	54fcb693257134adae26819685891ecc
 _md5_=1164463ec324d1dccc7c8ea9d2a4506b
