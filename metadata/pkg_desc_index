@@ -56,4 +56,4 @@ sci-mathematics/giac 1.4.9.71-r1: A free C++ CAS (Computer Algebra System) libra
 sys-apps/man-pages-fortran 0.1.0-r1: Man pages for the Fortran language
 sys-apps/man-pages-linux-kernel-api 4.5.2: Man pages for the Linux Kernel API
 sys-cluster/opencoarrays 2.9.2: Implementation of coarrays for gfortran
-sys-kernel/gentoo-sources 5.4.38 5.10.76-r1 5.10.216 5.15.23: Full sources including the Gentoo patchset for the 5.15 kernel tree
+sys-kernel/gentoo-sources 5.10.76-r1 5.10.216 5.15.23 6.12.31: Full sources including the Gentoo patchset for the 6.12 kernel tree
